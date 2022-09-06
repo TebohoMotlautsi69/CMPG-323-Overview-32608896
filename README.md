@@ -26,4 +26,13 @@ Is a text file use to tell git which file or folders it should ignore when setti
 They are different license to keep credentiality and the credentials are given based on the license choosen. Repository and Project can be set as private or public depending on how sensitive is the information.
 
 ## Update with project 2
-Repo
+Repo link: https://github.com/TebohoMotlautsi69/CMPG-233-Project-2_32608896
+Repo name: CMPG-233-Project-2_32608896
+Access Azure
+Install Visual Studio 2022 Community edition and .NET Core 3.1
+Create project documentaion.
+implement security using microsoft identity
+Submissions:URL to the API
+Submissions:list of endpoints
+Submissions:Reference list
+Due date 08 SEP 2022.
