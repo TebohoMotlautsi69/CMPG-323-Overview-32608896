@@ -24,3 +24,6 @@ Is a text file use to tell git which file or folders it should ignore when setti
 
 ##### Credentials and Sensitivity
 They are different license to keep credentiality and the credentials are given based on the license choosen. Repository and Project can be set as private or public depending on how sensitive is the information.
+
+## Update with project 2
+Repo
