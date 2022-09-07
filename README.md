@@ -31,8 +31,9 @@ Repo name: CMPG-233-Project-2_32608896
 Access Azure
 Install Visual Studio 2022 Community edition and .NET Core 3.1
 Create project documentaion.
-implement security using microsoft identity
-Submissions:URL to the API
-Submissions:list of endpoints
-Submissions:Reference list
+implement security using microsoft identity.
+Complete the  Mircosoft azure training.
+Submissions:URL to the API.
+Submissions:list of endpoints.
+Submissions:Reference list.
 Due date 08 SEP 2022.
