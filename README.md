@@ -37,3 +37,14 @@ Submissions:URL to the API.
 Submissions:list of endpoints.
 Submissions:Reference list.
 Due date 08 SEP 2022.
+
+# Project 3
+# Project 4
+Build a RPA robot using UiPath to automate the extraction of data from excel and populate the data into text box in a web page to create records in different and edit them.
+After editting it should be able to view the details and delete them from all the tables.
+Download the UiPath Community Studio
+Create a UiPath Studio account
+implemenet CRUD using automation
+submit: retrospection for sprint
+submit: refernece list
+Due date 27 OCT 2022
