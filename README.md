@@ -57,6 +57,7 @@ Due date 27 OCT 2022
 # Project 5
 
  # CMPG-323-Project-5-32608896
+ https://github.com/TebohoMotlautsi69/CMPG-323-Project-5-32608896
 
  ## Project Description
 The project entails to create a  report using Power BI.The project has High-level metrics, Device    monitoring, Device Registration and Filtering pages
