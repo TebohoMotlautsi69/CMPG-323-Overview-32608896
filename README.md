@@ -40,6 +40,42 @@ Due date 08 SEP 2022.
 
 # Project 3
 https://github.com/TebohoMotlautsi69/CMPG-323-Project-3-32608896
+# CMPG323-Project3-32608896
+
+## PROJECT DESCRIPTION
+The project uses data structures and web application to record information in the following Zone, Device, Category.
+The project uses ASP.NET Core MVC Web App as the template and .NET Core 3.1 as the framework.
+The project use design patterns(is a description of a set of interacting classes that provide a framework for a solution to a generalized problem in a specific context or environment) and SOLID Principles
+The design pattern used in this project is the Repository Pattern tier 2.
+# How the pattern works
+![5th](https://user-images.githubusercontent.com/110477626/192859626-ba9523a8-ac7d-4938-92fe-9b5202ab7a9d.png)
+
+## How to use the Web Application
+
+![1st](https://user-images.githubusercontent.com/110477626/192859654-5db3c5da-abc2-4de8-8dfe-957c8ab0e25b.png)
+ 1. Button Home returns the user to homepage.
+ 2.  Button Register is to register new users.
+ 3.  Button Login used to login if user have registered less to above step 2.
+ 
+ ![2nd](https://user-images.githubusercontent.com/110477626/192860267-b49b3fa3-f5d3-4326-a8df-10afb8ff0fc2.png)
+ 1. User must enter Email eg. example@gmail.com
+ 2. User must create a password with at least one alphanumeric character.
+ 3. User must confirm password by re-typing it.
+ 4. User must click Register button to store the user details.
+ 
+ ![3rd](https://user-images.githubusercontent.com/110477626/192860925-103cbe10-ff37-481d-be07-3c64e3157a3d.png)
+ 1. User must enter Email used when regitering.
+ 2. User must enter the password used when regitering.
+ 3. User has the option to store creditential to avoid manually entry.
+ 4. User must press Log in to use the web app.
+ 5. User can create new password if old one is forgotten.
+ 6. User can create a new account completely instead of doing step 5 above.
+ 
+ ![4](https://user-images.githubusercontent.com/110477626/192861666-4ec5830b-7e14-414d-bcf1-6563aa6ad7d5.png)
+ 1. User can press to edited or updated record.
+ 2. User can click this button to view the details of a record.
+ 3. User can click this button to delete a record.
+ 4. User can click this button to exit.
 
 # Project 4
 Repo Url: https://github.com/TebohoMotlautsi69/CMPG-323-Project-4-32608896
